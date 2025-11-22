@@ -1,0 +1,15 @@
+{
+  "project": "InsightX",
+  "website": "https://insightx.network",
+  "description": "InsightX deployment configuration for BNB Chain (BSC).",
+  "networks": {
+    "bsc_mainnet": {
+      "chainId": 56,
+      "rpc": "https://bsc-dataseed1.bnbchain.org"
+    },
+    "bsc_testnet": {
+      "chainId": 97,
+      "rpc": "https://data-seed-prebsc-1-s1.bnbchain.org:8545"
+    }
+  }
+}
